@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Wagtail 7.1 support/testing
+
 ## [2.4.1] - 2025-06-27
 
 - Use Trusted Publishing to authenticate with PyPI when publishing.

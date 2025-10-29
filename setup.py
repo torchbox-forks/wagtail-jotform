@@ -36,8 +36,8 @@ setup(
         "Programming Language :: Python :: 3.12",
         "Programming Language :: Python :: 3.13",
         "Framework :: Wagtail",
-        "Framework :: Wagtail :: 5",
         "Framework :: Wagtail :: 6",
+        "Framework :: Wagtail :: 7",
     ],
     extras_require={"testing": testing_extras, "development": development_extras},
 )

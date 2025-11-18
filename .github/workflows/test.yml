@@ -30,6 +30,12 @@ jobs:
             django: "django>=4.2,<4.3"
           - python: "3.14"
             django: "django>=5.1,<5.2"
+          - python: "3.14"
+            wagtail: "wagtail>=6.3,<6.4"
+          - python: "3.14"
+            wagtail: "wagtail>=7.0,<7.1"
+          - python: "3.14"
+            wagtail: "wagtail>=7.1,<7.2"
 
         include:
           - python: "3.14"
